@@ -3,15 +3,17 @@
         <img src="https://lh3.googleusercontent.com/ehSTPnXqrkk0M3U-UPCjC0fty9K6lgykK2WOUA2nUHp8gIkRjeTN8z8SABlkvcvR-9PIrboxIvPGujPgWebLQeHHgX7yLUoxFSduiZrTog6WoZLiAvqcTR1QTPVRmns2tYjACpp7EQ=w2400" height="100px">
     </a>
     <h1 align="center">Yii Extension Tailwind.</h1>
-    <br>
+</p>
+<p align="center">
+    <a href="https://packagist.org/packages/yii-extension/tailwind"><img src="https://img.shields.io/packagist/dt/yii-extension/tailwind" alt="Total Downloads"></a>
+    <a href="https://github.com/yii-extension/tailwind/actions?query=workflow%3Abuild"><img src="https://github.com/yii-extension/tailwind/workflows/build/badge.svg" alt="Build Status"></a>
+    <a href="https://codecov.io/gh/yii-extension/tailwind"><img src="https://codecov.io/gh/yii-extension/tailwind/branch/master/graph/badge.svg?token=mFwYEYMr15" alt="Code Coverage"></a>
+    <a href="https://dashboard.stryker-mutator.io/reports/github.com/yii-extension/tailwind/master"><img src="https://img.shields.io/endpoint?style=flat&url=https://badge-api.stryker-mutator.io/github.com/yii-extension/tailwind/master" alt="Mutation Testing"></a>
+    <a href="https://github.com/yii-extension/tailwind/actions/workflows/static.yml"><img src="https://github.com/yii-extension/tailwind/workflows/static%20analysis/badge.svg" alt="Static Analysis"></a>
+    <a href="https://shepherd.dev/github/yii-extension/tailwind"><img src="https://shepherd.dev/github/yii-extension/tailwind/coverage.svg" alt="Type Coverage"></a>
+    <a href="https://packagist.org/packages/yii-extension/tailwind"><img src="https://img.shields.io/badge/license-BSD_3_Clause-green" alt="License"></a>
 </p>
 
-[![Total Downloads](https://poser.pugx.org/yii-extension/tailwind/downloads.png)](https://packagist.org/packages/yii-extension/tailwind)
-[![Build Status](https://github.com/yii-extension/tailwind/workflows/build/badge.svg)](https://github.com/yii-extension/tailwind/actions?query=workflow%3Abuild)
-[![codecov](https://codecov.io/gh/yii-extension/tailwind/branch/master/graph/badge.svg?token=mFwYEYMr15)](https://codecov.io/gh/yii-extension/tailwind)
-[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https://badge-api.stryker-mutator.io/github.com/yii-extension/tailwind/master)](https://dashboard.stryker-mutator.io/reports/github.com/yii-extension/tailwind/master)
-[![static analysis](https://github.com/yii-extension/tailwind/workflows/static%20analysis/badge.svg)](https://github.com/yii-extension/tailwind/actions?query=workflow%3A%22static+analysis%22)
-[![type-coverage](https://shepherd.dev/github/yii-extension/tailwind/coverage.svg)](https://shepherd.dev/github/yii-extension/tailwind)
 
 
 ## Installation
