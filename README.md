@@ -13,6 +13,9 @@
 [![static analysis](https://github.com/yii-extension/tailwind/workflows/static%20analysis/badge.svg)](https://github.com/yii-extension/tailwind/actions?query=workflow%3A%22static+analysis%22)
 [![type-coverage](https://shepherd.dev/github/yii-extension/tailwind/coverage.svg)](https://shepherd.dev/github/yii-extension/tailwind)
 
+## Note
+
+This package its archived, use the [ui-awesome/html-component-flowbite](https://github.com/ui-awesome/html-component-flowbite) package.
 
 ## Installation
 
